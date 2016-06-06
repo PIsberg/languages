@@ -2,5 +2,6 @@ Inspiration from https://adriann.github.io/programming_problems.html
 
 To keep it simple I used https://glot.io/ for running and compiling the code
 
-010 Write a program that asks the user for her name and greets her with her name.
-020 Write function that reverses a list, preferably in place.
+010 Write a program that asks the user for her name and greets her with her name
+020 Write function that reverses a list, preferably in place
+030 Write a program that automatically converts English text to Morse code and vice versa
