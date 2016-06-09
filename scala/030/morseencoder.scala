@@ -1,6 +1,6 @@
 
-// encoded/decode morse-code in Scala
-// encoded according to http://morsecode.scphillips.com/morse2.html
+// encode/decode morse-code in Scala
+// morse encoded according to http://morsecode.scphillips.com/morse2.html
 // Peter Isberg
 
 object Main extends App {
