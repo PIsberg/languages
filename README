@@ -7,4 +7,4 @@ To keep it simple I used https://glot.io/ for running and compiling the code
 030 Write a program that automatically converts English text to Morse code and vice versa (collections)
 040 Write a function that tests whether a string is a palindrome (functions, string-manipulation, looping)
 050 Write a program that reads a file and writes the content to another file (i/o)
-060 Write a program that models an animal farm in OOP (animal, duck, dog)
+060 Write a program that models an animal farm in OOP (animal, duck, sheep)
