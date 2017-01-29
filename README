@@ -8,5 +8,6 @@ To keep it simple I used https://glot.io/ for running and compiling the code
 040 Write a function that tests whether a string is a palindrome (functions, string-manipulation, looping)
 050 Write a program that reads a file and writes the content to another file (i/o)
 060 Write a program that models an animal farm in OOP like animal, duck, sheep (oop, class, inheritance, polymorphism)
-TODO:
-070: Write a program using interfaces
+070: Write a program that downloades from the net (networking)
+080: Write a program executing an asynchronous task
+090: Write a program using interfaces
