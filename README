@@ -2,12 +2,12 @@ Inspiration from https://adriann.github.io/programming_problems.html
 
 To keep it simple I used https://glot.io/ for running and compiling the code
 
-010 Write a program that asks the user for her name and greets her with her name (printing, reading std-in)
+010 Write a program that asks the user for name and greets name (printing, reading std-in)
 020 Write function that reverses a list, preferably in place (list, arrays)
 030 Write a program that automatically converts English text to Morse code and vice versa (collections)
 040 Write a function that tests whether a string is a palindrome (functions, string-manipulation, looping)
 050 Write a program that reads a file and writes the content to another file (i/o)
 060 Write a program that models an animal farm in OOP like animal, duck, sheep (oop, class, inheritance, polymorphism)
-070: Write a program that downloades from the net (networking)
-080: Write a program executing an asynchronous task
-090: Write a program using interfaces
+070 Write a program that downloades from the net (networking)
+080 Write a program executing an asynchronous task
+090 Write a program using interfaces
